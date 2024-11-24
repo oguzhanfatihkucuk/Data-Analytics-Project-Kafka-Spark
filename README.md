@@ -82,8 +82,7 @@ Python is a versatile and widely used programming language in data science, know
 
 This dataset is a comprehensive collection of sales, customer, product, and delivery information for an e-commerce or retail business. With a total of 180,519 rows and 53 columns, each row in this dataset represents information related to a specific order. The dataset covers various dimensions, including customer demographics, order details, logistics information, and product attributes.
 
-For reference, the dataset can be found here: **[Kaggle Dataset - Smart Supply Chain](https://www.kaggle.com/datasets/alinoranianesfahani/dataco-smart-supply-chain-for-big-data-analysis)
-**.
+For reference, the dataset can be found here: **[Kaggle Dataset - Smart Supply Chain](https://www.kaggle.com/datasets/alinoranianesfahani/dataco-smart-supply-chain-for-big-data-analysis)**.
 
 ### Below is a detailed description of the dataset:
 - **Order Id, Order Date, Shipping Date:** Provides information about order dates, shipment dates, and delivery times.
