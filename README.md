@@ -1,20 +1,3 @@
-# T.C. Sakarya University
-## Faculty of Computer and Informatics
-### Department of Software Engineering
-
-## SWE423 - Data Analytics - Project
-
-### Preparer:
-- **Oğuzhan Fatih KÜÇÜK**  
-  B221202373
-
-### Lecturer:
-- **Dr. Öğr. Nur Banu Oğur**
-
-### Date:
-- **December – 2024**
-
----
 
 ## Topics:
 1. [Summary](#summary)
