@@ -113,7 +113,7 @@ The following columns are combined to create a new column called **features**:
 A linear regression model is instantiated with the specified feature and label columns. The `featuresCol` parameter is set to "features", while the `labelCol` is set to "Sales_per_customer", indicating the target variable to be predicted.
 
 The decision to choose the linear regression model was made after training a small part of our data with various models (Model Test-1). The model that gave the most accurate results in the shortest time was selected.
-
+<img src=".././png_files/Model Test-1.png" alt="AppLoading.png" width="200" style="margin: 10px;"/>
 **Model Test-1**
 
 ### 7.3 Prediction Function
